@@ -46,24 +46,11 @@ Develop a machine learning program to identify when an article might be fake new
 
 ## Comparing Accuracies of Models
 
-Model 	Accuracy
-Naive Bayes 	72.94%
-SVM 	88.42%
-Neural Network with TF 	81.42%
-Neural Network with Keras 	92.62%
-LSTM 	94.53%
-
-
+| Model         | Accuracy       |
+|:-------------:|:-------------: |
+|Logistic Regression | 72.94%    |
+| MultinomialNB     | 88.42%     |
 ## Confusion Matrices
-Naive Bayes
-
-    SVM
-
-    Neural Network with TensorFlow
-
-    Neural Network with Keras
-
-    LSTM
 
 ## References
 - [Fake News Detection Project live session of  utsav aggarwal
