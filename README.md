@@ -51,7 +51,7 @@ Develop a machine learning program to identify when an article might be fake new
 |Logistic Regression | 72.94%    |
 | MultinomialNB     | 88.42%     |
 ## Fake News App
-![App](fakeneswsapp.png)
+![App](fakenewsapp.png)
 
 ## References
 - [Fake News Detection Project live session of  utsav aggarwal
